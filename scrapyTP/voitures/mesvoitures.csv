@@ -1,0 +1,110 @@
+prix,Ann,Kilomtrage,TypeDeCarburant,Marque,Modele,Puissance fiscale,type
+125000.0,2014,100 000 - 109 999,Diesel,Ford,Focus,7 CV,"Voitures, Offre"
+115000.0,2012,110 000 - 119 999,Diesel,Alfa Romeo,Giulietta,6 CV,autre_secteur
+nan,2012,180 000 - 189 999,Diesel,Volkswagen,Passat,8 CV,oulfa
+45000.0,2006,65 000 - 69 999,Diesel,Ford,Mondeo,centre_ville,"Voitures, Offre"
+175000.0,2016,100 000 - 109 999,Diesel,Alfa Romeo,Giulietta,8 CV,toute_la_ville
+55000.0,2010,190 000 - 199 999,Diesel,Dacia,Logan,bir_chifa,"Voitures, Offre"
+84000.0,2010,55 000 - 59 999,Essence,Alfa Romeo,Mito,6 CV,anfa
+nan,2008,190 000 - 199 999,Diesel,Mercedes-Benz,Classe S,12 CV,oulfa
+nan,2013,100 000 - 109 999,Essence,Volvo,S60,11 CV,oulfa
+20300.0,1987,10 000 - 14 999,Essence,Audi,80,marjane_2,"Voitures, Offre"
+110000.0,2016,55 000 - 59 999,Diesel,Renault,Clio,"Voitures, Offre","
+"
+nan,2016,40 000 - 44 999,Diesel,Jeep,Cherokee,belvedere,"Voitures, Offre"
+168000.0,2011,180 000 - 189 999,Diesel,Volkswagen,Touran,route_de_ceuta,"Voitures, Offre"
+205000.0,2012,70 000 - 74 999,Diesel,BMW,Serie 1,8 CV,autre_secteur
+160000.0,2012,15 000 - 19 999,Diesel,Mercedes-Benz,Classe E,8 CV,"Voitures, Offre"
+nan,2011,160 000 - 169 999,Diesel,BMW,X3,9 CV,hay_el_fath
+65000.0,2005,130 000 - 139 999,Essence,Mercedes-Benz,Classe A,9 CV,"Voitures, Offre"
+35000.0,1994,55 000 - 59 999,Diesel,Peugeot,309,7 CV,"Voitures, Offre"
+109000.0,2017,80 000 - 84 999,Diesel,Renault,Clio,"Voitures, Offre","
+"
+nan,2009,190 000 - 199 999,Diesel,BMW,X6,12 CV,"Voitures, Offre"
+83000.0,2014,70 000 - 74 999,Essence,Renault,Clio,6 CV,"Voitures, Offre"
+nan,2015,70 000 - 74 999,Diesel,Porsche,Panamera,belvedere,"Voitures, Offre"
+44000.0,2004,200 000 - 249 999,Diesel,Toyota,Corolla,"Voitures, Offre","
+"
+78000.0,2006,180 000 - 189 999,Diesel,Citroen,Jumper,ain_chock,"Voitures, Offre"
+26000.0,1993,15 000 - 19 999,Diesel,Volkswagen,Vento,8 CV,"Voitures, Offre"
+nan,2004,140 000 - 149 999,Essence,Chevrolet,Aveo,7 CV,"Voitures, Offre"
+59000.0,2007,10 000 - 14 999,Diesel,Dacia,Logan,6 CV,"Voitures, Offre"
+90000.0,2013,15 000 - 19 999,Diesel,Dacia,Dokker,massira,"Voitures, Offre"
+98000.0,2010,120 000 - 129 999,Diesel,Mercedes-Benz,220,hay_essalam,"Voitures, Offre"
+155000.0,2016,55 000 - 59 999,Diesel,Toyota,Corolla,5 CV,ain_sebaa
+59000.0,2007,160 000 - 169 999,Essence,Mazda,3,9 CV,maarif
+nan,2016,75 000 - 79 999,Diesel,Land Rover,Range Rover Sport,12 CV,hay_el_fath
+nan,2012,90 000 - 94 999,Essence,Renault,Latitude,20 CV,"Voitures, Offre"
+120000.0,2011,190 000 - 199 999,Diesel,Ford,Focus,7 CV,"Voitures, Offre"
+92000.0,2012,180 000 - 189 999,Diesel,Citroen,Berlingo,6 CV,centre_ville
+125000.0,2008,150 000 - 159 999,Diesel,Nissan,Qashqai,6 CV,autre_secteur
+118000.0,2012,160 000 - 169 999,Diesel,Opel,Insignia,8 CV,"Voitures, Offre"
+65000.0,2010,45 000 - 49 999,Diesel,Dacia,Sandero,6 CV,2_mars
+85000.0,2004,180 000 - 189 999,Diesel,Volkswagen,GOLF 5,"Voitures, Offre","
+"
+84000.0,2014,130 000 - 139 999,Diesel,Fiat,Punto,5 CV,"Voitures, Offre"
+86500.0,2016,50 000 - 54 999,Diesel,Dacia,Logan,6 CV,"Voitures, Offre"
+132000.0,2009,200 000 - 249 999,Diesel,Volvo,XC60,10 CV,hay_riad
+107000.0,2008,130 000 - 139 999,Diesel,Honda,Accord,"Voitures, Offre","
+"
+145000.0,2007,200 000 - 249 999,Diesel,Mercedes-Benz,Classe C,plateau,"Voitures, Offre"
+72000.0,2009,130 000 - 139 999,Essence,Peugeot,207,8 CV,"Voitures, Offre"
+93000.0,2014,150 000 - 159 999,Diesel,Dacia,Dokker,autre_secteur,"Voitures, Offre"
+85000.0,2002,0 - 4 999,Diesel,Volkswagen,GOLF 4,8 CV,"Voitures, Offre"
+129000.0,2016,70 000 - 74 999,Diesel,Dacia,Duster,6 CV,ain_sebaa
+nan,2015,85 000 - 89 999,Diesel,Jeep,Grand Cherokee,belvedere,"Voitures, Offre"
+88000.0,2008,300 000 - 349 999,Diesel,Skoda,Octavia,centre_ville,"Voitures, Offre"
+nan,2017,50 000 - 54 999,Diesel,Renault,Clio,6 CV,"Voitures, Offre"
+nan,2010,120 000 - 129 999,Diesel,Land Rover,Range Rover Sport,12 CV,belvedere
+110000.0,2015,80 000 - 84 999,Diesel,Hyundai,Accent,6 CV,2_mars
+nan,2014,130 000 - 139 999,Diesel,Volkswagen,Touareg,"Voitures, Offre","
+"
+158000.0,2014,100 000 - 109 999,Diesel,Ford,Kuga,najmat_al_janoub,"Voitures, Offre"
+45000.0,1998,20 000 - 24 999,Diesel,Renault,EXPRESS,7 CV,"Voitures, Offre"
+123000.0,2008,170 000 - 179 999,Diesel,Volkswagen,Touran,al_aroui,"Voitures, Offre"
+50000.0,1999,150 000 - 159 999,Diesel,Renault,Laguna,7 CV,"Voitures, Offre"
+108000.0,2015,100 000 - 109 999,Diesel,Fiat,500,5 CV,hay_dakhla
+99000.0,2007,170 000 - 179 999,Diesel,Audi,A3,8 CV,2_mars
+180000.0,2012,120 000 - 129 999,Diesel,Mercedes-Benz,Classe C,8 CV,2_mars
+72000.0,2009,130 000 - 139 999,Essence,Peugeot,107,8 CV,"Voitures, Offre"
+75000.0,2014,70 000 - 74 999,Diesel,Volvo,other,6 CV,toute_la_ville
+88000.0,2010,200 000 - 249 999,Diesel,Volkswagen,GOLF 5,8 CV,2_mars
+78000.0,2006,190 000 - 199 999,Diesel,Volkswagen,Passat,8 CV,"Voitures, Offre"
+nan,2019,0 - 4 999,Essence,Cadillac,Escalade,23 CV,anfa
+nan,2009,150 000 - 159 999,Diesel,Mercedes-Benz,220,2_mars,"Voitures, Offre"
+75000.0,1999,170 000 - 179 999,Diesel,Mercedes-Benz,250,toute_la_ville,"Voitures, Offre"
+78000.0,2013,190 000 - 199 999,Diesel,Fiat,Doblo,hay_al_amal,"Voitures, Offre"
+nan,2018,20 000 - 24 999,Essence,Audi,RS3,derb_ghallef,"Voitures, Offre"
+44000.0,1994,190 000 - 199 999,Diesel,Volkswagen,GOLF 3,"Voitures, Offre","
+"
+90000.0,2010,200 000 - 249 999,Diesel,Renault,Laguna,8 CV,"Voitures, Offre"
+176000.0,2012,130 000 - 139 999,Diesel,Jeep,Grand Cherokee,12 CV,"Voitures, Offre"
+91000.0,2016,80 000 - 84 999,Diesel,Fiat,Doblo,5 CV,centre_ville
+18000.0,1987,350 000 - 399 999,Essence,Renault,SUPER 5,6 CV,al_amal
+190000.0,2012,85 000 - 89 999,Diesel,BMW,Serie 3,autre_secteur,"Voitures, Offre"
+99000.0,2016,60 000 - 64 999,Diesel,Fiat,500,5 CV,autre_secteur
+310000.0,2014,70 000 - 74 999,Diesel,Audi,A3,8 CV,"Voitures, Offre"
+nan,2011,80 000 - 84 999,Diesel,Mercedes-Benz,Classe S,belvedere,"Voitures, Offre"
+nan,2019,0 - 4 999,Diesel,Volkswagen,Polo,6 CV,moujahidine
+nan,2016,65 000 - 69 999,Diesel,Hyundai,i 30,6 CV,sidi_maarouf
+31000.0,2001,200 000 - 249 999,Essence,Fiat,Siena,"Voitures, Offre","
+"
+85000.0,2013,160 000 - 169 999,Diesel,Renault,Kangoo,6 CV,"Voitures, Offre"
+95000.0,2001,200 000 - 249 999,Diesel,Mercedes-Benz,220,8 CV,beni_makada_lakdima
+nan,2012,85 000 - 89 999,Diesel,BMW,Serie 3,"Voitures, Offre","
+"
+95000.0,2014,55 000 - 59 999,Diesel,Renault,Logan,6 CV,"Voitures, Offre"
+nan,2019,0 - 4 999,Diesel,Mercedes-Benz,Classe GLC,9 CV,ain_chock
+33000.0,2009,100 000 - 109 999,Essence,Chery,QQ,5 CV,"Voitures, Offre"
+174000.0,2015,85 000 - 89 999,Diesel,Volkswagen,Golf,ain_sebaa,"Voitures, Offre"
+26000.0,1994,250 000 - 299 999,Essence,Opel,Corsa,7 CV,"Voitures, Offre"
+88000.0,2016,85 000 - 89 999,Essence,Ford,Fiesta,6 CV,ahammar
+160000.0,2013,100 000 - 109 999,Diesel,Hyundai,i 40,7 CV,"Voitures, Offre"
+nan,2015,30 000 - 34 999,Diesel,Audi,Q7,12 CV,quartier_des_hopitaux
+70000.0,2005,150 000 - 159 999,Essence,Volkswagen,COCCINELLE,11 CV,hay_dakhla
+nan,2019,0 - 4 999,Essence,Volkswagen,Polo,wilaya,"Voitures, Offre"
+190000.0,2016,100 000 - 109 999,Diesel,Peugeot,508,8 CV,"Voitures, Offre"
+110000.0,2006,200 000 - 249 999,Diesel,Volkswagen,GOLF 5,8 CV,centre_ville
+27000.0,2001,20 000 - 24 999,Diesel,Fiat,Uno,saies,"Voitures, Offre"
+65000.0,2016,60 000 - 64 999,Diesel,Dacia,Logan,7 CV,la_cigogne
+87000.0,2017,40 000 - 44 999,Diesel,Dacia,Logan,sidi_bernoussi,"Voitures, Offre"
